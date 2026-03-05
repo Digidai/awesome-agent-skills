@@ -770,6 +770,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - 20 specialized skills for resume optimization, ATS analysis, interview prep, and career transitions
 - **[RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills)** - Transform docs or codebases into Obsidian StudyVaults with interactive quizzes
 - **[NeoLabHQ/write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies the famous *The Elements of Style* book principles to make documentation and writing clearer and more professional by eliminating wordiness and improving structure.
+- **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 6 knowledge domains, 30+ frameworks, 12 templates, and 32 SaaS metrics with formulas. Pure Markdown, zero scripts.
 
 </details>
 
